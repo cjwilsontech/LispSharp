@@ -1,0 +1,24 @@
+C:\Users\cj\Desktop\LispSharp\bin\Debug\LispSharp.exe.config
+C:\Users\cj\Desktop\LispSharp\obj\Debug\LispSharp.exe
+C:\Users\cj\Desktop\LispSharp\obj\Debug\LispSharp.pdb
+C:\Users\cj\Desktop\LispSharp\obj\Debug\LispSharp.csprojResolveAssemblyReference.cache
+C:\Users\cj\Desktop\LispSharp\bin\Debug\LispSharp.exe
+C:\Users\cj\Desktop\LispSharp\bin\Debug\LispSharp.pdb
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\bin\Debug\LispSharp.exe.config
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\bin\Debug\LispSharp.exe
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\bin\Debug\LispSharp.pdb
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\obj\Debug\LispSharp.exe
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\obj\Debug\LispSharp.pdb
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\obj\Debug\LispSharp.csprojResolveAssemblyReference.cache
+E:\LispSharp\bin\Debug\LispSharp.exe.config
+E:\LispSharp\obj\Debug\LispSharp.exe
+E:\LispSharp\obj\Debug\LispSharp.pdb
+E:\LispSharp\bin\Debug\LispSharp.exe
+E:\LispSharp\bin\Debug\LispSharp.pdb
+E:\LispSharp\obj\Debug\LispSharp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LispSharp\bin\Debug\LispSharp.exe.config
+C:\Users\User\Desktop\LispSharp\obj\Debug\LispSharp.exe
+C:\Users\User\Desktop\LispSharp\obj\Debug\LispSharp.pdb
+C:\Users\User\Desktop\LispSharp\bin\Debug\LispSharp.exe
+C:\Users\User\Desktop\LispSharp\bin\Debug\LispSharp.pdb
+C:\Users\User\Desktop\LispSharp\obj\Debug\LispSharp.csprojResolveAssemblyReference.cache

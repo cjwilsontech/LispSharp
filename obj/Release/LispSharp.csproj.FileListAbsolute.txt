@@ -1,0 +1,6 @@
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\bin\Release\LispSharp.exe.config
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\bin\Release\LispSharp.exe
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\bin\Release\LispSharp.pdb
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\obj\Release\LispSharp.csprojResolveAssemblyReference.cache
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\obj\Release\LispSharp.exe
+F:\Users\CJ\Documents\Visual Studio 2015\Projects\LispSharp\obj\Release\LispSharp.pdb
